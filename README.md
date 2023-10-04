@@ -7,6 +7,6 @@ I denna README-fil vill jag prova olika markdown funktioner
 * _olika_ __sätt__ att skriva på.
 * ~~detta~~
 
-##Rubriker
+## Rubriker
 
-###Olika rubriker
+### Olika rubriker
